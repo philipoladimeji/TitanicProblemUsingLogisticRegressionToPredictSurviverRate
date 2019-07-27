@@ -1,1 +1,1 @@
-# TitanicProblemUsingLogisticRegressionToPredictSurviverRate
+# TitanicProblemUsingLogisticRegressionToPredictSurvivorRate
